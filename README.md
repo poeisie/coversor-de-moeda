@@ -1,8 +1,6 @@
------
-
 # Conversor de Moedas
 
-Este projeto é um **Conversor de Moedas** simples, desenvolvido como parte de um *challenge* da Alura. Ele te permite converter valores entre diferentes moedas usando taxas de câmbio atualizadas, direto de uma API externa.
+Este projeto é um **Conversor de Moedas** simples, desenvolvido como parte do curso Java e Orientação a Objetos G8 - ONE, da Alura. Ele te permite converter valores entre diferentes moedas usando taxas de câmbio atualizadas, direto de uma API externa.
 
 -----
 
